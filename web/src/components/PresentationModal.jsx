@@ -13,15 +13,15 @@ export const PresentationModal = () => {
     {
       id: 1,
       title: "Kho Kho (खो खो): India's Ground Game",
-      subtitle: "The Indigenous Tag Sport Born on Clay, Evolving to the World Stage",
+      subtitle: "Presented by Polimera Sai Vatsal (ID: 2500040224) • KL University",
       tagline: "Speed • Deception • Sacred Direction Rule",
       points: [
         "Traditional Indian tag sport played on a 27m × 16m earthen pitch.",
         "8 seated chasers facing alternate directions, 1 active hunter.",
         "Inaugural 2025 World Cup in New Delhi won by Team India.",
-        "Collegiate excellence powered by universities across India, notably KL University (KLU)."
+        "Collegiate excellence powered by KL University (KLU) & national athletes."
       ],
-      notes: "Welcome everyone. Today we explore Kho Kho—one of India's oldest and fastest indigenous sports. Unlike regular tag, Kho Kho is a strategic puzzle played at 30 km/h where you can never turn back mid-lane.",
+      notes: "Welcome everyone. I am Polimera Sai Vatsal, student ID 2500040224 from KL University. Today we explore Kho Kho—one of India's oldest and fastest indigenous sports. Unlike regular tag, Kho Kho is a strategic puzzle played at 30 km/h where you can never turn back mid-lane.",
       badge: "Title Slide"
     },
     {
@@ -187,14 +187,14 @@ export const PresentationModal = () => {
     {
       id: 14,
       title: "Closing: Dhanyavaad / Thank You (धन्यवाद)",
-      subtitle: "Kho Kho: India's Traditional Tag Sport on the Global Stage",
+      subtitle: "Project Architect: Polimera Sai Vatsal (ID: 2500040224) • KL University",
       points: [
         "Explore the full 3D interactive court and test your skills in the Mini-Game.",
         "Search all KLU & national collegiate athlete profiles in the live web portal.",
-        "Support local academies and traditional sports grassroots initiatives.",
+        "Developed by Polimera Sai Vatsal (2500040224), KL Deemed to be University.",
         "धन्यवाद • Thank You!"
       ],
-      notes: "Thank you for your time. Kho Kho is a living symbol of India's cultural ingenuity and athletic excellence. We invite you to experience the interactive 3D field and mini-game online.",
+      notes: "Thank you for your time. This project was developed by Polimera Sai Vatsal, ID 2500040224, KL University. Kho Kho is a living symbol of India's cultural ingenuity and athletic excellence. We invite you to experience the interactive 3D field and mini-game online.",
       badge: "Closing"
     }
   ];

@@ -55,7 +55,7 @@ export const Footer = () => {
         </div>
 
         {/* Sources Section */}
-        <div className="mb-12">
+        <div className="mb-8">
           <div className="flex items-center gap-2 mb-4">
             <span className="w-2.5 h-2.5 rounded-full bg-marigold"></span>
             <h4 className="font-yatra text-lg font-bold text-indigo">
@@ -91,12 +91,40 @@ export const Footer = () => {
           </div>
         </div>
 
+        {/* Creator & Student Architect Attribution Banner */}
+        <div className="my-8 p-6 rounded-2xl bg-gradient-to-r from-paper-pure via-paper to-paper-dark border-2 border-marigold/50 shadow-clay flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div className="flex items-center space-x-4 text-center sm:text-left">
+            <div className="w-12 h-12 rounded-full bg-indigo text-turmeric font-yatra font-bold text-xl flex items-center justify-center shadow-md shrink-0">
+              SV
+            </div>
+            <div>
+              <span className="text-[11px] font-bold text-kumkum uppercase tracking-widest block">
+                Project Architect & Lead Developer
+              </span>
+              <h4 className="text-xl sm:text-2xl font-bold font-yatra text-indigo">
+                Polimera Sai Vatsal
+              </h4>
+              <p className="text-xs text-charcoal/80 font-medium">
+                Student ID / Roll No: <strong className="text-indigo font-bold">2500040224</strong> • KL Deemed to be University (KLEF)
+              </p>
+            </div>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="px-3 py-1 rounded-full bg-marigold/15 text-marigold-dark text-xs font-bold border border-marigold/30">
+              KLU Sports Computing
+            </span>
+            <span className="px-3 py-1 rounded-full bg-peacock/15 text-peacock-dark text-xs font-bold border border-peacock/30">
+              Kho Kho 3D Masterclass
+            </span>
+          </div>
+        </div>
+
         {/* Bottom Credits & Copyright */}
         <div className="pt-8 border-t border-charcoal/15 flex flex-col sm:flex-row items-center justify-between text-xs text-charcoal/60 gap-4">
           <div className="flex items-center space-x-1">
-            <span>Crafted with</span>
+            <span>Crafted by <strong>Polimera Sai Vatsal (2500040224)</strong> with</span>
             <Heart className="w-3.5 h-3.5 text-kumkum fill-kumkum inline mx-0.5" />
-            <span>for students, evaluators, and sports enthusiasts worldwide.</span>
+            <span>for sports scholars worldwide.</span>
           </div>
 
           <div className="flex items-center space-x-4">

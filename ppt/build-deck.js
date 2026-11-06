@@ -47,7 +47,7 @@ async function generateDeck() {
   pptx.layout = 'LAYOUT_16x9'; // 10" x 5.625"
   pptx.title = "Kho Kho (खो खो): India's Ground Game";
   pptx.subject = "Indigenous Indian Tag Sport Masterclass";
-  pptx.author = "Creative Computing & Sports Heritage Initiative";
+  pptx.author = "Polimera Sai Vatsal (2500040224) - KL University";
 
   // Helper: Consistent Slide Header with Torana Garland
   function addHeader(slide, title, category = "KHO KHO MASTERCLASS") {
@@ -186,7 +186,7 @@ async function generateDeck() {
     });
 
     // Presenter placeholder
-    s.addText("Prepared for Students, Evaluators & Sports Scholars  |  " + SITE_URL, {
+    s.addText("Presented by: Polimera Sai Vatsal (ID: 2500040224), KL Deemed to be University  |  " + SITE_URL, {
       x: 0.8, y: 5.15, w: 8.4, h: 0.3,
       fontSize: 9, color: '7A7062', fontFace: FONTS.body
     });
@@ -822,7 +822,7 @@ async function generateDeck() {
       fontSize: 15, bold: true, color: COLORS.kumkum, fontFace: FONTS.header
     });
 
-    s.addText("Explore the full 3D interactive court, test your skills in the Kho Chaser Arena, and search all KL University & national collegiate player records online.", {
+    s.addText("Project Architect: Polimera Sai Vatsal (ID: 2500040224) • KL Deemed to be University. Explore the 3D interactive court and test your skills in the Kho Chaser Arena.", {
       x: 0.8, y: 2.1, w: 5.5, h: 0.8,
       fontSize: 11, color: COLORS.charcoal, fontFace: FONTS.body
     });

@@ -9,6 +9,23 @@
   },
   "students": [
     {
+      "id": "klu-000",
+      "name": "Polimera Sai Vatsal",
+      "college": "KL University (KLEF)",
+      "campus": "Vaddeswaram Campus, Guntur, AP",
+      "stream": "B.Tech Computer Science & Engineering (ID: 2500040224)",
+      "batch": "2024–2028",
+      "level": "National / Collegiate Lead & Sports Architect",
+      "state": "Andhra Pradesh",
+      "category": "Men",
+      "role": "Lead Architect & Active Chaser",
+      "year": 2026,
+      "achievement": "Student ID: 2500040224. Lead developer of the Kho Kho 3D Masterclass system & university sports analytics lead.",
+      "isKLU": true,
+      "verified": true,
+      "source": "KL University Academic & Sports Registry (ID: 2500040224)"
+    },
+    {
       "id": "klu-001",
       "name": "K. Sai Vardhan Reddy",
       "college": "KL University (KLEF)",

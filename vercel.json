@@ -1,7 +1,7 @@
 {
-  "buildCommand": "cd web && npm install && npm run build",
-  "outputDirectory": "web/dist",
   "framework": "vite",
+  "buildCommand": "node scripts/build-vercel.cjs",
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/(.*)",

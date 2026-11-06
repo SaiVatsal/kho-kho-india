@@ -2,6 +2,8 @@
 
 An authentic, single-page, scroll-driven 3D web application and executive 14-slide PowerPoint presentation deck celebrating Kho Kho—India's high-speed traditional tag sport.
 
+**Author & Lead Architect**: **Polimera Sai Vatsal** (Student ID / Roll No: **2500040224**), KL Deemed to be University (KLEF).
+
 Built with **React + Vite + @react-three/fiber + @react-three/drei + GSAP + Tailwind CSS + Zustand** and **PptxGenJS + LibreOffice Headless**.
 
 ---
@@ -181,10 +183,12 @@ All content lives in `/web/src/data/*.json` so you can edit facts, player names,
 ## 🌐 Deployment Instructions
 
 ### Deploying to Vercel
-1. Push this repository to GitHub.
-2. In Vercel, import the repository.
-3. Vercel automatically detects `vercel.json` (root directory, build command `cd web && npm install && npm run build`, and output `web/dist`).
-4. Click **Deploy**.
+1. Push this repository to GitHub (`git push origin main`).
+2. In Vercel, click **Import** on `SaiVatsal/kho-kho-india`.
+3. The project includes dual-mode deployment:
+   - If Root Directory is left as default (`./`), Vercel automatically runs `node scripts/build-vercel.cjs` and deploys from `dist`.
+   - If Root Directory is set to `web`, Vercel runs `npm run build` using `web/vercel.json` and deploys from `dist`.
+4. Click **Deploy** — your site will build and go live instantly!
 
 ### Deploying to GitHub Pages
 1. Go to repository **Settings > Pages**.
