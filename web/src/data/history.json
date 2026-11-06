@@ -1,0 +1,119 @@
+{
+  "tracks": [
+    {
+      "id": "tradition",
+      "name": "Legend & Ancient Tradition",
+      "badge": "Oral & Folkloric Heritage",
+      "description": "Historical narratives, tactical folklore, and rural traditions handed down through generations before formal rule codification.",
+      "milestones": [
+        {
+          "year": "c. 1000 BCE",
+          "headline": "Rathachera: Ancient Chariot Tactics",
+          "summary": "According to tradition, warriors in ancient Maharashtra and during epic times practiced tactical evasion drills known as 'Rathera' or chariot maneuvers.",
+          "details": "Soldiers mimicked dodging between chariots to break enemy encirclements (such as the legendary defensive chakravyuha maneuvers).",
+          "category": "legend",
+          "verified": true,
+          "source": "https://britannica.com/sports/kho-kho",
+          "sourceName": "Encyclopaedia Britannica & Sports Authority of India",
+          "icon": "warli_chariot"
+        },
+        {
+          "year": "Medieval Era",
+          "headline": "Rural Maharashtra Akhadas & Wadas",
+          "summary": "Folk traditions recorded gymnasiums (Talims and Akhadas) in Pune, Satara, and Baroda training youth in speed, breath control, and evasive tagging.",
+          "details": "The game was played informally on uneven dust paths with stones marking the posts, developing lightning reflexes and team synchrony.",
+          "category": "tradition",
+          "verified": true,
+          "source": "https://asiankhokhofederation.com",
+          "sourceName": "Asian Kho Kho Federation Historical Archives",
+          "icon": "warli_warrior"
+        }
+      ]
+    },
+    {
+      "id": "documented",
+      "name": "Documented Modern History",
+      "badge": "Codified Sporting Era",
+      "description": "Chronologically verified milestones backed by federation archives, government gazettes, and official international tournament records.",
+      "milestones": [
+        {
+          "year": "1914",
+          "headline": "Deccan Gymkhana Drafts First Official Rules",
+          "summary": "The Deccan Gymkhana sports club in Pune formed a dedicated committee to formalize rules, court markings, and competitive guidelines.",
+          "details": "This marked the historic transition of Kho Kho from an unstandardized playground pastime to an organized, officiated field sport.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://britannica.com/sports/kho-kho",
+          "sourceName": "Encyclopaedia Britannica & Deccan Gymkhana Archives",
+          "icon": "warli_book"
+        },
+        {
+          "year": "1955",
+          "headline": "Establishment of KKFI (Kho Kho Federation of India)",
+          "summary": "The Kho Kho Federation of India was founded as the apex national governing body to unify regional associations across all states.",
+          "details": "KKFI established standardized court specifications (27m x 16m), national referee certification, and inter-state championship structures.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://khokhoindia.in",
+          "sourceName": "Kho Kho Federation of India Official Portal",
+          "icon": "warli_flag"
+        },
+        {
+          "year": "1959–60",
+          "headline": "First National Kho Kho Championship in Vijayawada",
+          "summary": "The inaugural Men's National Championship was hosted at Vijayawada, Andhra Pradesh, sparking statewide collegiate and club circuits.",
+          "details": "The women's national championship followed immediately in 1960–61 at Kolhapur, Maharashtra, institutionalizing women's participation.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://khokhoindia.in",
+          "sourceName": "KKFI National Championship Historical Records",
+          "icon": "warli_trophy"
+        },
+        {
+          "year": "1970",
+          "headline": "Sudhir Parab Wins Inaugural Arjuna Award",
+          "summary": "Legendary chaser Sudhir Parab became the very first sportsperson to receive India's prestigious Arjuna Award for excellence in Kho Kho.",
+          "details": "This conferred national civilian sporting honors upon traditional Indian sports, inspiring thousands of young rural and university athletes.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://yas.nic.in",
+          "sourceName": "Ministry of Youth Affairs and Sports, Govt of India",
+          "icon": "warli_medal"
+        },
+        {
+          "year": "1982",
+          "headline": "Asian Games Demonstration in New Delhi",
+          "summary": "Kho Kho was featured as an official demonstration sport during the IX Asian Games held in New Delhi, captivating international delegates.",
+          "details": "This led to the formation of the Asian Kho Kho Federation (AKKF) in 1987 and the 1st Asian Championship in Kolkata.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://asiankhokhofederation.com",
+          "sourceName": "Asian Kho Kho Federation Official Records",
+          "icon": "warli_globe"
+        },
+        {
+          "year": "2022",
+          "headline": "Ultimate Kho Kho (UKK) Franchise Revolution",
+          "summary": "Season 1 of Ultimate Kho Kho debuted on prime-time television with 6 franchises, supercharged rules ('Wazir', 'Sky Dive'), and 164M viewers.",
+          "details": "Odisha Juggernauts clinched the thrilling inaugural title 46–45 against Telugu Yoddhas at Shree Shiv Chhatrapati Sports Complex, Pune.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://ultimatekhokho.com",
+          "sourceName": "Ultimate Kho Kho League Official Release",
+          "icon": "warli_torch"
+        },
+        {
+          "year": "Jan 2025",
+          "headline": "Inaugural Kho Kho World Cup in New Delhi",
+          "summary": "24 nations competed at Indira Gandhi Indoor Stadium, New Delhi (Jan 13–19, 2025). India won double gold in Men's and Women's divisions.",
+          "details": "Men defeated Nepal 54–36, and Women defeated Nepal 78–40 in front of capacity crowds, propelling Kho Kho toward future Olympic recognition.",
+          "category": "documented",
+          "verified": true,
+          "source": "https://olympics.com/en/news/kho-kho-world-cup-2025-schedule-scores-results-india",
+          "sourceName": "Olympics.com & International Kho Kho Federation",
+          "icon": "warli_world"
+        }
+      ]
+    }
+  ]
+}

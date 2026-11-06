@@ -1,0 +1,66 @@
+{
+  "verified": true,
+  "source": "https://khokhonms.org / KKFI Official Rulebook",
+  "terms": [
+    {
+      "term": "Chaser",
+      "hindi": "धावक / चेसर",
+      "definition": "The offensive players tasked with tagging opponents. In an active turn, 8 chasers sit in the cross-lane squares while 1 active chaser pursues the defenders."
+    },
+    {
+      "term": "Defender / Runner",
+      "hindi": "रक्षक / डिफेंडर",
+      "definition": "The defensive players on the field entering in batches of 3, striving to evade tags and maximize their survival time inside the court boundaries."
+    },
+    {
+      "term": "Kho",
+      "hindi": "खो!",
+      "definition": "The mandatory vocal shout that must be uttered aloud simultaneously while tapping a seated teammate on their back to hand over the active chase."
+    },
+    {
+      "term": "Central Lane",
+      "hindi": "केंद्रीय पट्टी",
+      "definition": "The 24-meter long, 30cm wide line joining the two posts. Active chasers cannot cross this line directly; doing so incurs a foul."
+    },
+    {
+      "term": "Cross Lane",
+      "hindi": "क्रॉस लेन",
+      "definition": "The 8 perpendicular paths (16m long x 35cm wide) cutting across the central lane where sitting squares are established."
+    },
+    {
+      "term": "Post / Pole",
+      "hindi": "खंभा / पोल",
+      "definition": "Two upright wooden poles (120-125cm high, 9-10cm diameter) standing at each end of the central lane, used by chasers to swing around and legally reverse direction."
+    },
+    {
+      "term": "Free Zone",
+      "hindi": "मुक्त क्षेत्र",
+      "definition": "The 1.5m x 16m territory behind each post where the direction rule is suspended, allowing the chaser to rotate or choose any course of sprint."
+    },
+    {
+      "term": "Direction Rule",
+      "hindi": "दिशा नियम",
+      "definition": "A fundamental rule stating an active chaser must maintain their chosen forward momentum and cannot turn backwards mid-lane without circling a post."
+    },
+    {
+      "term": "Wazir",
+      "hindi": "वज़ीर",
+      "definition": "In Ultimate Kho Kho (UKK), a special designated attacker who holds the superpower to run in both directions freely across cross-lanes."
+    },
+    {
+      "term": "Sky Dive",
+      "hindi": "स्काई डाइव",
+      "definition": "An acrobatic aerial leap by an active chaser to touch a running defender before landing on the mat, scoring 3 points in UKK."
+    },
+    {
+      "term": "Pole Dive",
+      "hindi": "पोल डाइव",
+      "definition": "Using one arm to grip the wooden post while horizontally hurling the body outward to tag an evasive defender near the pole line."
+    },
+    {
+      "term": "Dream Run",
+      "hindi": "ड्रीम रन",
+      "definition": "When a defender batch survives on court for over 2 minutes and 30 seconds against constant chases, earning bonus defense points."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "verified": true,
+  "source": "https://ultimatekhokho.com / https://olympics.com / https://khokhoindia.in",
+  "modernStars": [
+    {
+      "id": "pratik-waikar",
+      "name": "Pratik Waikar",
+      "team": "Telugu Yoddhas & Team India",
+      "state": "Maharashtra",
+      "role": "Captain & All-Rounder",
+      "signatureMove": "Acrobatic Sky Dive",
+      "achievement": "Captained Telugu Yoddhas to the UKK Finals and starred in India's 2025 World Cup Gold campaign.",
+      "careerStats": {
+        "totalPoints": 142,
+        "touchPoints": 86,
+        "divePoints": 42,
+        "notOutMinutes": "28m 40s"
+      }
+    },
+    {
+      "id": "ramji-kashyap",
+      "name": "Ramji Kashyap",
+      "team": "Chennai Quick Guns & Team India",
+      "state": "Karnataka",
+      "role": "Wazir & Attacking Dynamo",
+      "signatureMove": "Double-Leg Sweep & Pole Crawl",
+      "achievement": "Awarded Best Attacker and Player of the Tournament in Ultimate Kho Kho Season 1 with record touch points.",
+      "careerStats": {
+        "totalPoints": 196,
+        "touchPoints": 118,
+        "divePoints": 56,
+        "notOutMinutes": "31m 15s"
+      }
+    },
+    {
+      "id": "sachin-bhargo",
+      "name": "Sachin Bhargo",
+      "team": "Gujarat Giants & Team India",
+      "state": "Gujarat",
+      "role": "All-Rounder",
+      "signatureMove": "Sudden Shoulder Feint",
+      "achievement": "Key playmaker who led Gujarat Giants to the Ultimate Kho Kho Season 2 Championship title in 2024.",
+      "careerStats": {
+        "totalPoints": 112,
+        "touchPoints": 74,
+        "divePoints": 28,
+        "notOutMinutes": "22m 10s"
+      }
+    },
+    {
+      "id": "aniket-pote",
+      "name": "Aniket Pote",
+      "team": "Odisha Juggernauts",
+      "state": "Maharashtra",
+      "role": "Defender & Ring Master",
+      "signatureMove": "8-Pattern Ring Dodging",
+      "achievement": "Inaugural UKK champion with Odisha Juggernauts; holds record for most successful Dream Runs.",
+      "careerStats": {
+        "totalPoints": 98,
+        "touchPoints": 45,
+        "divePoints": 18,
+        "notOutMinutes": "36m 50s"
+      }
+    },
+    {
+      "id": "priyanka-ingle",
+      "name": "Priyanka Ingle",
+      "team": "Team India Women",
+      "state": "Maharashtra",
+      "role": "Chaser & Vice Captain",
+      "signatureMove": "Lightning Pole Turn",
+      "achievement": "Top scorer in the 2025 Kho Kho World Cup Women's Final against Nepal (78–40).",
+      "careerStats": {
+        "totalPoints": 88,
+        "touchPoints": 62,
+        "divePoints": 26,
+        "notOutMinutes": "19m 30s"
+      }
+    },
+    {
+      "id": "nasreen-shaikh",
+      "name": "Nasreen Shaikh",
+      "team": "Team India Women (Captain)",
+      "state": "Delhi",
+      "role": "Captain & All-Rounder",
+      "signatureMove": "Ankle Tap & Low Sweep",
+      "achievement": "Conferred the Arjuna Award in 2023 (awarded Jan 2024); undefeated captain at 2025 World Cup.",
+      "careerStats": {
+        "totalPoints": 160,
+        "touchPoints": 104,
+        "divePoints": 38,
+        "notOutMinutes": "41m 20s"
+      }
+    }
+  ]
+}

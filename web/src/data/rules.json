@@ -1,0 +1,134 @@
+{
+  "field": {
+    "dimensions": {
+      "length": 27,
+      "width": 16,
+      "unit": "meters",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    "totalAreaWithLobby": {
+      "length": 30,
+      "width": 19,
+      "lobbyMargin": 1.5,
+      "unit": "meters",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    "centralLane": {
+      "length": 24,
+      "width": 0.30,
+      "unit": "meters",
+      "description": "Runs straight down the center between the two wooden posts.",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    "crossLanes": {
+      "count": 8,
+      "length": 16,
+      "width": 0.35,
+      "spacingBetweenLanes": 2.30,
+      "distanceFromPostToFirstLane": 2.55,
+      "unit": "meters",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    "sittingSquares": {
+      "count": 8,
+      "length": 0.35,
+      "width": 0.30,
+      "unit": "meters",
+      "description": "Formed at each intersection of central lane and cross lane. 8 chasers sit in alternate directions.",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    "freeZones": {
+      "count": 2,
+      "depth": 1.5,
+      "width": 16,
+      "unit": "meters",
+      "description": "D-shaped or rectangular safe turning zone behind each wooden post where chasers may change running direction.",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    "posts": {
+      "count": 2,
+      "heightAboveGround": "120cm - 125cm",
+      "diameter": "9cm - 10cm",
+      "material": "Smooth cylindrical teak or metal post without sharp edges",
+      "distanceBetweenPosts": 24,
+      "unit": "meters",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    }
+  },
+  "matchFormat": {
+    "squadSize": 12,
+    "onFieldPlayers": 9,
+    "chasersSeated": 8,
+    "activeChaser": 1,
+    "defendersEntryBatch": 3,
+    "innings": 2,
+    "turnsPerInning": 2,
+    "turnDurationSenior": "9 minutes",
+    "turnDurationJunior": "7 minutes",
+    "intervalBetweenTurns": "3 minutes",
+    "intervalBetweenInnings": "6 minutes",
+    "verified": true,
+    "source": "https://khokhoindia.in"
+  },
+  "coreMechanics": [
+    {
+      "id": "direction_rule",
+      "title": "Strict Direction Rule",
+      "summary": "Once an active chaser chooses a direction from a post or cross-lane, they MUST continue running in that direction until they reach the opposite free zone post. Reversing direction mid-lane is an immediate foul.",
+      "foulCode": "DIR_REVERSAL",
+      "foulPenalty": "Umpire blows foul whistle; chaser must yield advantage or hand over Kho correctly.",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    {
+      "id": "central_lane_crossing",
+      "title": "Central Lane Barrier",
+      "summary": "The active chaser CANNOT step over or cut across the central line dividing the two halves of the court. To switch halves, the chaser must either go around a post in the free zone or tap a teammate with a valid Kho.",
+      "foulCode": "CENTRAL_LINE_CROSS",
+      "foulPenalty": "Invalidated tag; red flash foul alert.",
+      "verified": true,
+      "source": "https://khokhonms.org"
+    },
+    {
+      "id": "giving_kho",
+      "title": "The 'Kho!' Handover",
+      "summary": "The active chaser must touch the seated teammate on the back between shoulder and waist and simultaneously utter 'Kho!' loud enough for the umpire and players to hear.",
+      "foulCode": "SILENT_KHO_OR_FRONT_TOUCH",
+      "foulPenalty": "Illegal Kho handover.",
+      "verified": true,
+      "source": "https://khokhoindia.in"
+    },
+    {
+      "id": "defender_dismissal",
+      "title": "Defender Tagging & Elimination",
+      "summary": "A defender is dismissed ('out') if touched by an active chaser's hand without any active foul, or if the defender steps outside the court boundary boundaries.",
+      "foulCode": "OUT_OF_BOUNDS",
+      "foulPenalty": "1 point awarded to the chasing team.",
+      "verified": true,
+      "source": "https://khokhoindia.in"
+    }
+  ],
+  "scoringSystems": {
+    "traditional": {
+      "touchPoint": 1,
+      "outOfBoundsPoint": 1,
+      "bonusPoints": 0,
+      "description": "Standard KKFI official rules: 1 point per dismissed defender."
+    },
+    "ultimateKhoKho": {
+      "touchPoint": 2,
+      "skyDivePoint": 3,
+      "poleDivePoint": 3,
+      "dreamRunBonus": 1,
+      "wazirAdvantage": "Wazir is a designated attacker who can sprint in BOTH directions freely along the cross-lanes.",
+      "description": "Commercial league format introduced in 2022 to supercharge TV viewership and athletic acrobatic play."
+    }
+  }
+}

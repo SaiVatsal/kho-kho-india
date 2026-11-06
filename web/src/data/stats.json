@@ -1,0 +1,111 @@
+{
+  "verified": true,
+  "source": "https://olympics.com / https://khokhoindia.in",
+  "counters": [
+    {
+      "id": "top_speed",
+      "value": 32,
+      "unit": "km/h",
+      "label": "Peak Sprint Velocity",
+      "context": "Active chasers clock explosive multi-directional sprints faster than average 100m split times."
+    },
+    {
+      "id": "reaction_time",
+      "value": 0.20,
+      "unit": "sec",
+      "label": "Average Reaction Latency",
+      "context": "Defenders dodge direction reversals in less than 200 milliseconds."
+    },
+    {
+      "id": "turn_duration",
+      "value": 9,
+      "unit": "mins",
+      "label": "Senior Turn Clock",
+      "context": "9 minutes of continuous anaerobic sprint chasing per turn in official KKFI senior matches."
+    },
+    {
+      "id": "registered_players",
+      "value": 250000,
+      "unit": "+",
+      "label": "KKFI Registered Athletes",
+      "context": "Active student and club athletes competing in district, state, university, and national tournaments."
+    },
+    {
+      "id": "ukk_viewership",
+      "value": 164,
+      "unit": "Million",
+      "label": "UKK Season 1 Viewers",
+      "context": "Live broadcast audience on Sony Sports Network, making Kho Kho India's fastest-growing league."
+    },
+    {
+      "id": "world_cup_teams",
+      "value": 24,
+      "unit": "Nations",
+      "label": "2025 World Cup Squads",
+      "context": "Representing Asia, Europe, Africa, North America, and Oceania at Indira Gandhi Indoor Stadium."
+    }
+  ],
+  "worldCup2025Results": {
+    "title": "Inaugural Kho Kho World Cup 2025 (New Delhi)",
+    "date": "January 13–19, 2025",
+    "venue": "Indira Gandhi Indoor Stadium, New Delhi",
+    "verified": true,
+    "source": "https://olympics.com/en/news/kho-kho-world-cup-2025-schedule-scores-results-india",
+    "matches": [
+      {
+        "category": "Men's World Cup Final",
+        "teamA": "India",
+        "scoreA": 54,
+        "teamB": "Nepal",
+        "scoreB": 36,
+        "margin": "+18 pts",
+        "winner": "India (World Champions)",
+        "runnerUp": "Nepal (Silver Medalists)"
+      },
+      {
+        "category": "Women's World Cup Final",
+        "teamA": "India",
+        "scoreA": 78,
+        "teamB": "Nepal",
+        "scoreB": 40,
+        "margin": "+38 pts",
+        "winner": "India (World Champions)",
+        "runnerUp": "Nepal (Silver Medalists)"
+      },
+      {
+        "category": "Men's Semifinal 1",
+        "teamA": "India",
+        "scoreA": 62,
+        "teamB": "Sri Lanka",
+        "scoreB": 24,
+        "margin": "+38 pts",
+        "winner": "India"
+      },
+      {
+        "category": "Men's Semifinal 2",
+        "teamA": "Nepal",
+        "scoreA": 48,
+        "teamB": "England",
+        "scoreB": 32,
+        "margin": "+16 pts",
+        "winner": "Nepal"
+      }
+    ]
+  },
+  "arjunaAwards": [
+    { "name": "Sudhir Parab", "year": 1970, "state": "Maharashtra", "role": "Attacker & Chaser", "citation": "First-ever recipient of the Arjuna Award in Kho Kho; set modern standards of pole turning." },
+    { "name": "Achala Devare", "year": 1971, "state": "Maharashtra", "role": "Defender", "citation": "Pioneering women's champion renowned for unmatched stamina and evasive footwork." },
+    { "name": "Bhavana Parikh", "year": 1973, "state": "Gujarat", "role": "All-Rounder", "citation": "National champion and captain of Gujarat women's team." },
+    { "name": "Shrirang Inamdar", "year": 1974, "state": "Maharashtra", "role": "Chaser", "citation": "Tactical master in swift handover timing and sudden directional cuts." },
+    { "name": "Usha Vasant Nagarkar", "year": 1975, "state": "Maharashtra", "role": "Defender", "citation": "Longest defensive ring evasion record in 1970s national championships." },
+    { "name": "S. R. Dharwadkar", "year": 1975, "state": "Karnataka", "role": "Chaser", "citation": "Key architect of Karnataka's dominance in South Zone championships." },
+    { "name": "Sushma Sarolkar", "year": 1976, "state": "Madhya Pradesh", "role": "All-Rounder", "citation": "Trailblazer from central India leading national squads to gold." },
+    { "name": "H. M. Takalkar", "year": 1981, "state": "Maharashtra", "role": "Chaser", "citation": "Distinguished pole dive specialist." },
+    { "name": "Surekha Kulkarni", "year": 1983, "state": "Maharashtra", "role": "Defender", "citation": "Stellar defender in national and state championships." },
+    { "name": "Veena Narayan Parab", "year": 1984, "state": "Maharashtra", "role": "All-Rounder", "citation": "Celebrated international player and mentor." },
+    { "name": "S. Prakash", "year": 1984, "state": "Karnataka", "role": "Chaser", "citation": "Speed sensation of Karnataka state and Indian squad." },
+    { "name": "A. Shaheen", "year": 1985, "state": "Andhra Pradesh", "role": "Defender", "citation": "Legendary defender from Andhra Pradesh who brought South Indian Kho Kho to national glory." },
+    { "name": "Sarika Kale", "year": 2020, "state": "Maharashtra", "role": "Captain & All-Rounder", "citation": "Captained Indian Women's team to Gold at South Asian Games; broke a 22-year award hiatus." },
+    { "name": "Nasreen Shaikh", "year": 2023, "state": "Delhi", "role": "Captain & Attacker", "citation": "Conferred in Jan 2024; captained Indian women to 2025 World Cup Gold with an undefeated tournament record." }
+  ]
+}

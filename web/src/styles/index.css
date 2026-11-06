@@ -1,0 +1,88 @@
+@import "@fontsource/poppins/300.css";
+@import "@fontsource/poppins/400.css";
+@import "@fontsource/poppins/500.css";
+@import "@fontsource/poppins/600.css";
+@import "@fontsource/poppins/700.css";
+@import "@fontsource/yatra-one/400.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-marigold: #F28C28;
+  --color-kumkum: #C8341C;
+  --color-turmeric: #F5B700;
+  --color-indigo: #1B2A5A;
+  --color-peacock: #0E7C7B;
+  --color-terracotta: #B5532A;
+  --color-paper: #FFF6E5;
+  --color-charcoal: #2B2B2B;
+}
+
+/* Subtle Jaali Lattice Texture Background */
+.bg-jaali {
+  background-color: #FFF6E5;
+  background-image: radial-gradient(#B5532A 0.75px, transparent 0.75px), radial-gradient(#1B2A5A 0.75px, #FFF6E5 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+  background-opacity: 0.05;
+}
+
+/* Chalk-line Border Style */
+.chalk-border {
+  border: 2px dashed rgba(255, 255, 255, 0.85);
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
+}
+
+.chalk-border-indigo {
+  border: 2px dashed rgba(27, 42, 90, 0.35);
+}
+
+/* Traditional Torana Arch Garland */
+.torana-border {
+  height: 18px;
+  width: 100%;
+  background-image: radial-gradient(circle at 10px 0, #F28C28 8px, transparent 9px),
+                    radial-gradient(circle at 30px 0, #F5B700 8px, transparent 9px),
+                    radial-gradient(circle at 50px 0, #0E7C7B 8px, transparent 9px);
+  background-size: 60px 18px;
+  background-repeat: repeat-x;
+}
+
+/* Clay Ground Surface Aesthetic */
+.clay-ground {
+  background: radial-gradient(circle at 50% 50%, #C86134 0%, #A64720 70%, #853313 100%);
+  box-shadow: inset 0 0 80px rgba(0, 0, 0, 0.4);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FFF6E5;
+}
+::-webkit-scrollbar-thumb {
+  background: #B5532A;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C8341C;
+}
+
+/* Accessibility Focus Rings */
+*:focus-visible {
+  outline: 3px solid #F28C28;
+  outline-offset: 3px;
+}
+
+/* Reduced Motion Fallback */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

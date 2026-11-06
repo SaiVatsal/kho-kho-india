@@ -1,0 +1,151 @@
+{
+  "shadingCriterion": "State Association Status & National Competitive Tier",
+  "verified": true,
+  "source": "https://khokhoindia.in",
+  "states": [
+    {
+      "id": "IN-MH",
+      "name": "Maharashtra",
+      "category": "Founding Heartland / Tier 1 Powerhouse",
+      "championshipTitles": 32,
+      "stateAssociation": "Maharashtra Kho Kho Association (MKKA)",
+      "hub": "Pune, Mumbai, Kolhapur, Solapur",
+      "notablePlayers": ["Sudhir Parab (Arjuna Award)", "Sarika Kale (Arjuna Award)", "Shrirang Inamdar", "Pratik Waikar"],
+      "facts": "Birthplace of modern codified Kho Kho in 1914 at Deccan Gymkhana, Pune. Highest number of Senior National Championship victories in Indian sporting history.",
+      "activeTournament": "Maharashtra State Senior Championship & Chhatrapati Shivaji State Cup",
+      "path": "M160,260 L200,240 L230,270 L210,320 L170,330 L150,290 Z"
+    },
+    {
+      "id": "IN-AP",
+      "name": "Andhra Pradesh",
+      "category": "Historic National Championship Host / Tier 1",
+      "championshipTitles": 6,
+      "stateAssociation": "Andhra Pradesh Kho Kho Association (APKKA)",
+      "hub": "Vijayawada, Guntur (KL University Hub), Visakhapatnam, Tirupati",
+      "notablePlayers": ["A. Shaheen (Arjuna Award 1985)", "G. Venkataramana", "KLU Varsity Squad Champions"],
+      "facts": "Hosted the historic First Senior Men's National Championship in Vijayawada (1959–60). KL University (Koneru Lakshmaiah University) in Vaddeswaram is a premier academic and training center producing national and inter-university medalists.",
+      "activeTournament": "AP Inter-District Senior Championship & Krishna Valley Trophy",
+      "path": "M220,320 L270,300 L290,360 L250,400 L230,350 Z"
+    },
+    {
+      "id": "IN-KA",
+      "name": "Karnataka",
+      "category": "South Zone Dominant / Tier 1 Powerhouse",
+      "championshipTitles": 14,
+      "stateAssociation": "Karnataka State Kho Kho Association (KSKKA)",
+      "hub": "Bengaluru, Mysuru, Mandya, Belagavi",
+      "notablePlayers": ["S. Prakash (Arjuna Award)", "Ramji Kashyap (UKK Best Attacker)", "Veena Narayan Parab"],
+      "facts": "Regular winners and finalists in South Zone and All India Inter-University championships, with University of Mysore and Mangalore University winning consecutive AIU crowns.",
+      "activeTournament": "Karnataka Senior State Championship & Mysore Dussehra Sports Meet",
+      "path": "M170,340 L210,330 L220,390 L180,420 L160,370 Z"
+    },
+    {
+      "id": "IN-TG",
+      "name": "Telangana",
+      "category": "Emerging Superhub / UKK Hub",
+      "championshipTitles": 4,
+      "stateAssociation": "Telangana State Kho Kho Association (TSKKA)",
+      "hub": "Hyderabad, Warangal, Nizamabad, Aziz Nagar (KLH Campus)",
+      "notablePlayers": ["P. Mallesh", "B. Sravani", "Pratik Waikar (Telugu Yoddhas)"],
+      "facts": "Home franchise to Telugu Yoddhas in Ultimate Kho Kho. Rapid expansion across university campuses including KLH Aziz Nagar and Osmania University.",
+      "activeTournament": "Telangana Premier Kho Kho League & Inter-District Championship",
+      "path": "M210,280 L250,270 L260,320 L210,320 Z"
+    },
+    {
+      "id": "IN-OR",
+      "name": "Odisha",
+      "category": "Inaugural UKK Champions / Infrastructure Leader",
+      "championshipTitles": 5,
+      "stateAssociation": "Odisha Kho Kho Association (OKKA)",
+      "hub": "Bhubaneswar (Kalinga Stadium), Cuttack (JN Indoor Stadium)",
+      "notablePlayers": ["Dilip Khandvi", "Jagannatha Murmu", "Subhashis Santra"],
+      "facts": "Odisha Juggernauts won the inaugural Ultimate Kho Kho title in 2022. Host of UKK Season 2 at Cuttack. State-of-the-art sports science and Kho Kho high performance center.",
+      "activeTournament": "Odisha State Kho Kho League & Kalinga Cup",
+      "path": "M280,240 L340,230 L350,280 L290,290 Z"
+    },
+    {
+      "id": "IN-GJ",
+      "name": "Gujarat",
+      "category": "UKK Season 2 Champions / Western Hub",
+      "championshipTitles": 8,
+      "stateAssociation": "Gujarat Kho Kho Association (GKKA)",
+      "hub": "Baroda (Vadodara), Ahmedabad, Surat",
+      "notablePlayers": ["Bhavana Parikh (Arjuna Award 1973)", "Sachin Bhargo (Gujarat Giants)"],
+      "facts": "Historic ties through Maharaja Sayajirao Gaekwad's patronage in Baroda. Gujarat Giants clinched UKK Season 2 Championship in 2024.",
+      "activeTournament": "Gujarat State Inter-District Championship & Khel Mahakumbh",
+      "path": "M110,200 L160,190 L170,250 L120,260 Z"
+    },
+    {
+      "id": "IN-DL",
+      "name": "Delhi (NCT)",
+      "category": "2025 World Cup Host City / Northern Power",
+      "championshipTitles": 7,
+      "stateAssociation": "Kho Kho Association of Delhi (KKAD)",
+      "hub": "Indira Gandhi Indoor Stadium, Tyagaraj Stadium, Chhatrasal",
+      "notablePlayers": ["Nasreen Shaikh (Arjuna Award 2023 / World Cup Gold)", "Praveen Kumar"],
+      "facts": "Proud host of the 1st Kho Kho World Cup in January 2025. Captain Nasreen Shaikh led the Indian Women's team to historic gold and received the Arjuna Award.",
+      "activeTournament": "Delhi State Senior Cup & North Zone Inter-State",
+      "path": "M175,130 L185,130 L185,140 L175,140 Z"
+    },
+    {
+      "id": "IN-KL",
+      "name": "Kerala",
+      "category": "Southern Agility Stronghold",
+      "championshipTitles": 5,
+      "stateAssociation": "Kerala Kho Kho Association (KKKA)",
+      "hub": "Kozhikode (Calicut Univ), Thiruvananthapuram, Kannur",
+      "notablePlayers": ["Anju Thomas", "Jishnu K.", "K. Vineeth"],
+      "facts": "Renowned for exceptional defender squads and footwork drills. University of Calicut and Kerala University are powerhouse podium finishers in AIU national tournaments.",
+      "activeTournament": "Kerala State Inter-District & Malabar Trophy",
+      "path": "M170,410 L190,400 L200,470 L180,480 Z"
+    },
+    {
+      "id": "IN-TN",
+      "name": "Tamil Nadu",
+      "category": "High-Participation University Hub",
+      "championshipTitles": 3,
+      "stateAssociation": "Tamil Nadu Kho Kho Association (TNKKA)",
+      "hub": "Chennai (Chennai Quick Guns), Coimbatore (Bharathiar Univ), Madurai",
+      "notablePlayers": ["M. Vignesh", "K. Ramkumar", "S. Selvi"],
+      "facts": "Base for UKK franchise Chennai Quick Guns (runners-up in Season 2). Thousands of collegiate squads compete in Tamil Nadu Inter-Collegiate and CM Trophy.",
+      "activeTournament": "Tamil Nadu Senior State Championship & CM Trophy",
+      "path": "M200,410 L240,400 L230,480 L190,470 Z"
+    },
+    {
+      "id": "IN-WB",
+      "name": "West Bengal",
+      "category": "Eastern Pioneer / 1987 Asian Championship Host",
+      "championshipTitles": 9,
+      "stateAssociation": "West Bengal Kho Kho Association (WBKKA)",
+      "hub": "Kolkata, Howrah, Midnapore",
+      "notablePlayers": ["Shibani Basu", "Nirmal Sarkar"],
+      "facts": "Hosted the 1st Asian Kho Kho Championship in 1987. Deep institutional roots in schools, universities, and rural clubs across Bengal.",
+      "activeTournament": "Bengal State Championship & Netaji Gold Cup",
+      "path": "M330,190 L370,180 L360,240 L320,230 Z"
+    },
+    {
+      "id": "IN-PB",
+      "name": "Punjab",
+      "category": "Athletic & Speed Pioneer",
+      "championshipTitles": 4,
+      "stateAssociation": "Punjab Kho Kho Association (PKKA)",
+      "hub": "Patiala (NIS / Punjabi Univ), Ludhiana, Jalandhar",
+      "notablePlayers": ["Gurpreet Singh", "Harwinder Kaur"],
+      "facts": "Netaji Subhas National Institute of Sports (NIS) in Patiala trains national coaches in tactical biomechanics and conditioning.",
+      "activeTournament": "Punjab State Games & Sher-e-Punjab Trophy",
+      "path": "M150,90 L190,80 L180,120 L140,110 Z"
+    },
+    {
+      "id": "IN-UP",
+      "name": "Uttar Pradesh",
+      "category": "Major Talent Nursery",
+      "championshipTitles": 6,
+      "stateAssociation": "Uttar Pradesh Kho Kho Association (UPKKA)",
+      "hub": "Lucknow, Varanasi, Meerut, Kanpur",
+      "notablePlayers": ["Anuradha Sharma", "Vipin Patel"],
+      "facts": "Vast grassroots player base with over 45 district affiliated bodies sending representatives to national school and senior games.",
+      "activeTournament": "UP Senior State Championship & Ganga Trophy",
+      "path": "M200,140 L280,130 L270,190 L200,190 Z"
+    }
+  ]
+}

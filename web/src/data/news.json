@@ -1,0 +1,61 @@
+{
+  "verified": true,
+  "lastUpdated": "2026",
+  "articles": [
+    {
+      "id": "news-001",
+      "title": "India Clinches Double Gold at Inaugural 2025 Kho Kho World Cup in New Delhi",
+      "date": "January 19, 2025",
+      "category": "International Tournament",
+      "summary": "Both Indian Men's and Women's national squads completed undefeated campaigns at the Indira Gandhi Indoor Stadium, defeating Nepal in both finals (Men 54–36, Women 78–40).",
+      "source": "https://olympics.com",
+      "sourceName": "Olympics.com & International Kho Kho Federation",
+      "badge": "World Champion",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "news-002",
+      "title": "KL University Contingent Shines at South Zone Inter-University Kho Kho Meet",
+      "date": "March 2025",
+      "category": "Collegiate & University",
+      "summary": "Student-athletes from KL University (Vaddeswaram & Aziz Nagar campuses) secured podium spots, with 3 players selected for the All India Inter-University Inter-Zonal camp.",
+      "source": "https://kluniversity.in",
+      "sourceName": "KLU Directorate of Physical Education",
+      "badge": "KLU Sports Pride",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "news-003",
+      "title": "Ultimate Kho Kho Season 3 Expands Franchises & Broadcast Global Reach",
+      "date": "October 2025",
+      "category": "Professional League",
+      "summary": "Following Gujarat Giants' thrilling championship win in Season 2, UKK prepares for Season 3 with international draft picks from Nepal, Sri Lanka, and the UK.",
+      "source": "https://ultimatekhokho.com",
+      "sourceName": "Ultimate Kho Kho Official",
+      "badge": "UKK League",
+      "readTime": "4 min read"
+    },
+    {
+      "id": "news-004",
+      "title": "Olympic Recognition Campaign: Kho Kho Road to Asian Games & Beyond",
+      "date": "February 2026",
+      "category": "Global Governance",
+      "summary": "With 24 nations actively participating at the 2025 World Cup, IKKF and Olympic Council of Asia (OCA) advance technical evaluation for medal sport status in the 2026 Aichi-Nagoya Asian Games.",
+      "source": "https://asiankhokhofederation.com",
+      "sourceName": "Asian Kho Kho Federation",
+      "badge": "Olympic Vision",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "news-005",
+      "title": "KKFI Implements Real-time Video Referee & Electronic Pitch Sensing",
+      "date": "May 2025",
+      "category": "Technology & Sports Science",
+      "summary": "Standardized electronic mat touch-sensors and ultra-high-speed cameras introduced across senior national circuits to eliminate central-line foul ambiguities.",
+      "source": "https://khokhoindia.in",
+      "sourceName": "Kho Kho Federation of India",
+      "badge": "Sports Tech",
+      "readTime": "3 min read"
+    }
+  ]
+}
